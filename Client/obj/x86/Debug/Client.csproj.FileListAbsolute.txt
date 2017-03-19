@@ -1,0 +1,16 @@
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\bin\Debug\gamesucxac.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\bin\Debug\gamesucxac.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\obj\x86\Debug\gamesucxac.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\obj\x86\Debug\gamesucxac.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\obj\x86\Debug\gamesucxac.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Client\obj\x86\Debug\gamesucxac.Client.resources
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\bin\Debug\gamesucxac.exe
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\bin\Debug\gamesucxac.pdb
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\obj\x86\Debug\gamesucxac.Client.resources
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\obj\x86\Debug\gamesucxac.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\obj\x86\Debug\gamesucxac.exe
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Client\obj\x86\Debug\gamesucxac.pdb

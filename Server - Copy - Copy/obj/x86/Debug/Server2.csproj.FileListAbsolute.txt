@@ -1,0 +1,16 @@
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\obj\x86\Debug\Server2.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\obj\x86\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\bin\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\bin\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\obj\x86\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\obj\x86\Debug\Server2.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server - Copy - Copy\obj\x86\Debug\Server.Server2.resources
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\bin\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\bin\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\obj\x86\Debug\Server2.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\obj\x86\Debug\Server.Server2.resources
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\obj\x86\Debug\Server2.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\obj\x86\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\gamesucsac\Server - Copy - Copy\obj\x86\Debug\Server.pdb
